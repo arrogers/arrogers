@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+I'm Anna (she/her), a genomic data scientist at Bayer Crop Science.
+
+🔭 I’m currently working on using genomic and environmental data to enable breeding decisions.  
+🌱 I’m currently learning   
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 🌱 About the world of design and how we can better communicate complex information to support breeders.  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 🌱 About the commonalities and differences between many crops grown worldwide.  
+⚡ Fun fact: I'm very into knitting and really enjoy thinking about the math and structures we can use to create!  
+
 <!--
 **arrogers/arrogers** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
