@@ -34,7 +34,7 @@ I'm Anna (she/her), a genomic data scientist at Bayer Crop Science. I work on a 
 ***
 
 ### Experience
-This is just a quick look at my experience, for more in depth information feel free to check out my [resume](Resume_RogersA_Feb2025.pdf) or [CV](CV_RogersA).  
+This is just a quick look at my experience, for more in depth information feel free to check out my [resume](Resume_RogersA_Feb2025.pdf) or [CV](CV_RogersA.pdf).  
 Data Scientist @ Bayer Crop Science (2021 - present)  
 Genetics Ph.D. @ North Carolina State University (2016 - 2021)  
 Statistics MS @ North Carolina State University (2018-2020)  
